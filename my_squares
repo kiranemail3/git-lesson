@@ -1,5 +1,6 @@
 #!/usr/bin/python
-
+"""takes a valkue and returns the swuared value
+"""
 def my_square(x):
       return (x ** 2)
 print (my_square(3))
