@@ -1,7 +1,7 @@
 #!/usr/bin/python
 """takes a valkue and returns the swuared value
-   added one more line here
+   added one ***********more line here
 """
-def my_square(x):
-      return (x ** 2)
-print (my_square(3))
+def my_square(z):
+      return (z ** 2)
+print (my_square(12))
